@@ -129,7 +129,7 @@
 					<style>OBF</style>
 					<strict>true</strict>
 					<modules>
-						<module>com.example.ui.MyWidgetSet</module>
+						<module>com.example.MyAppWidgetset</module>
 					</modules>
 				</configuration>
 				<executions>
