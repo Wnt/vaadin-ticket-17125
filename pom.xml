@@ -128,7 +128,9 @@
 					<compileReport>false</compileReport>
 					<style>OBF</style>
 					<strict>true</strict>
-					<module>com.example.MyAppWidgetset</module>
+					<modules>
+						<module>com.example.ui.MyWidgetSet</module>
+					</modules>
 				</configuration>
 				<executions>
 					<execution>
