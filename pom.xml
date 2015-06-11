@@ -137,6 +137,7 @@
 						<goals>
 							<goal>update-widgetset</goal>
 							<goal>compile</goal>
+							<goal>clean</goal>
 							<!-- disabled by default to use on-the-fly theme compilation -->
 							<!-- <goal>compile-theme</goal> -->
 						</goals>
